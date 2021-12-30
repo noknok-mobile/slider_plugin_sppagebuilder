@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.1" type="plugin" group="sppagebuilder">
+	<name>slider_addon</name>
+	<author>noknok</author>
+	<creationDate>15 Dec 2021</creationDate>
+	<authorEmail>ul@noknok.ru</authorEmail>
+	<authorUrl>noknok.ru</authorUrl>
+	<copyright>Copyright (C) 2021 noknok. All rights reserved.</copyright>
+	<license>GNU/GPL V2 or Later</license>
+	<description>Slider addon plugin for SP Page Builder</description>
+	<version>1.0</version>
+
+	<files>
+		<filename plugin="slider">slider.php</filename>
+		<folder>addons</folder>
+	</files>
+
+</extension>
